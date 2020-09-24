@@ -1,0 +1,39 @@
+
+# Creado por https://www.toptal.com/developers/gitignore/api/c++
+# Edite en https://www.toptal.com/developers/gitignore?templates=c++
+
+### C ++ ###
+# Requisitos previos
+*.re
+
+# Archivos de objetos compilados
+* .slo
+* .lo
+* .o
+* .obj
+
+# Encabezados precompilados
+* .gch
+* .pch
+
+# Bibliotecas dinámicas compiladas
+*.entonces
+* .dylib
+* .dll
+
+# Archivos del módulo Fortran
+*.modificación
+* .smod
+
+# Bibliotecas estáticas compiladas
+* .lai
+*.la
+*.una
+* .lib
+
+# Ejecutables
+*.exe
+*.fuera
+* .app
+
+# Fin de https://www.toptal.com/developers/gitignore/api/c++
